@@ -10,9 +10,6 @@ from ipaddress import ip_address, IPv4Address, IPv6Address
 
 import config
 
-# app = flask.Flask(__name__)
-# app.config["DEBUG"] = True
-
 # Grab our configuration
 cfg = config.cfg
 
